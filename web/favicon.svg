@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="7" fill="#0d0f14"/>
+
+  <!-- Shield -->
+  <path d="M16 4 L24 8 L24 18 Q24 24 16 28 Q8 24 8 18 L8 8 Z"
+        fill="rgba(232,80,74,0.12)" stroke="#e8504a" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Lightning bolt (injection / vulnerability) -->
+  <path d="M18 10 L11 19 L16 19 L15 26 L21 16 L16 16 Z"
+        fill="#e8504a"/>
+</svg>
